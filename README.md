@@ -1,4 +1,10 @@
-# Hi there 👋! Welcome to Namespace Manny!
+# Welcome to Namespace Manny! 👋
+A journey that started off as a dream and now becoming a reality. From an electrical engineer to a project manager, and finally an aspiring software developer.
+
+
+
+
+
 
 <!--
 **Mannyvv/Mannyvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
