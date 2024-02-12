@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Dev | Servant Leader | STEM Enthusiast
 -------------------------------------------------
 
-Electrical Engineer > IT Project Manager > Software Developer
+Construction Manager > IT Project Manager > Software Developer
 
 * 🌍  I'm based in Las Vegas
 * 🖥️  See my portfolio at [https://www.mannyworks.com/](http://www.mannyworks.com/)
